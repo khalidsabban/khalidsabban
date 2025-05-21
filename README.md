@@ -8,7 +8,7 @@ I am a Junior Data Scientist and machine learning engineer. I am passionate abou
 
 
 ## You can find my projects here: ##
-## [AI Portoflio]([https://github.com/khalidsbn](https://github.com/khalidsbn/AI-Portofolio)) ##
+## [AI Portoflio]([https://github.com/khalidsbn/AI-Portofolio]) ##
 
 
 
