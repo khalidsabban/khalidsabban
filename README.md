@@ -53,14 +53,12 @@ Machine learning model that predicts laptop prices based on specifications with 
 <tr>
 <td width="50%">
 
-### 🚢 Titanic Survival Prediction
-**Kaggle Competition Solution**
+### 🏦 Home Credit Default Risk Prediction
+**Kaggle Competition Solution** 
+Machine learning system predicting loan default risk using multi-dataset integration and gradient boosting models, achieving 75.38% ROC-AUC.
+🔗 [View Repository](https://github.com/khalidsbn/Home-Credit-Default-Risk)
 
-Advanced classification model for predicting passenger survival using feature engineering and ensemble methods.
-
-🔗 [View Repository](https://github.com/khalidsbn/Survived-prediction)
-
-**Tech Stack:** Python, XGBoost, Feature Engineering
+**Tech Stack:** Python, XGBoost, LightGBM, Pandas, Feature Engineering
 
 </td>
 <td width="50%">
