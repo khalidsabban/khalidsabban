@@ -186,7 +186,7 @@ I'm always interested in:
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=khalidsbn&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/khalidsbn?label=Followers&style=for-the-badge&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/khalidsabban?label=Followers&style=for-the-badge&color=blue)
 
 </div>
 
