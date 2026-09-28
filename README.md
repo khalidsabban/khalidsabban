@@ -109,8 +109,6 @@ Experiments investigated how LoRA configuration requirements change across tasks
 
 Developed a reusable fine-tuning workflow using 4-bit quantisation, substantially reducing GPU memory requirements while maintaining model performance.
 
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=0IlhjBcAAAAJ)
-
 ---
 
 ## ⚙️ Production ML System
